@@ -154,10 +154,6 @@ we no longer run tests for EOL platforms.
 * Fedora 27
 * Gentoo 3
 
-## Versioning
-The v1 series of this module will support both Puppet v3 and v4. The v2
-series of this module will drop support for Puppet v3.
-
 ## Credits
 
 * sssd.conf template from [walkamongus-sssd][2] by Chadwick Banning
